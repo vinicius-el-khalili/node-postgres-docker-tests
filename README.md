@@ -1,3 +1,5 @@
+*under production*
+
 This is a very simple set of tests for setting up an express server with node.js, typeScript, postgres and docker.
 
 In oder to run it locally, follow these steps:
